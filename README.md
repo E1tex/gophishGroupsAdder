@@ -24,6 +24,7 @@ John,Doe,Smith,john.doe@example.com
 Jane,Doe,Johnson,jane.doe@example.com
 ```
 ## Usage
+![image](https://github.com/user-attachments/assets/d4e391db-4e3f-4d28-9ba3-2b393e114bb9)
 
     Set Your API Key: Replace HARDCODE_YOUR_API_KEY_HERE in the script with your actual Gophish API key.
 
